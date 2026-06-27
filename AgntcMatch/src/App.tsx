@@ -516,7 +516,7 @@ export default function App() {
       <header className="border-b px-4 md:px-6 py-4 flex items-center justify-between gap-4" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
         <div className="flex items-center gap-2.5">
           <Layers className="w-5 h-5" style={{ color: "var(--accent)" }} />
-          <h1 className="text-sm font-bold tracking-tight font-mono uppercase hidden sm:block">Agentic Pipeline Hub</h1>
+          <h1 className="text-sm font-bold tracking-tight font-mono uppercase hidden sm:block">Agentic Match</h1>
         </div>
 
         <div className="flex items-center gap-3">

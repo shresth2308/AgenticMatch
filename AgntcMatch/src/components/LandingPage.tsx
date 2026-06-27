@@ -122,7 +122,7 @@ export default function LandingPage({
             }}
             id="btn-landing-signin"
           >
-            Sign In
+            Sign Up
           </button>
         </div>
       </header>
